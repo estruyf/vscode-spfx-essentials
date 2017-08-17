@@ -1,0 +1,34 @@
+{
+    "name": "spfx-essentials",
+    "displayName": "SPFx Essentials",
+    "description": "Essential extensions for SharePoint Framework projects / developers",
+    "version": "0.0.1",
+    "publisher": "estruyf",
+    "icon": "assets/spfx-essentials.png",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+        "EditorConfig.EditorConfig",
+        "MariusAlchimavicius.json-to-ts",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "msjsdiag.debugger-for-chrome",
+        "steoates.autoimport"
+    ],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/estruyf/vscode-spfx-essentials.git"
+    },
+    "keywords": [
+        "SharePoint",
+        "Framework",
+        "SPFx",
+        "TypeScript",
+        "React"
+    ]
+}
