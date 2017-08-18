@@ -3,7 +3,7 @@
     "displayName": "SPFx Essentials",
     "description": "Essential extensions for SharePoint Framework projects / developers",
     "version": "0.0.1",
-    "publisher": "estruyf",
+    "publisher": "eliostruyf",
     "icon": "assets/spfx-essentials.png",
     "engines": {
         "vscode": "^1.15.0"
