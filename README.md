@@ -30,4 +30,4 @@ Currently the following extensions are included in the package:
 
 ## Contribute
 
-Feel free to pass ideas and other useful extensions by creating an [issue](./issues).
+Feel free to pass ideas and other useful extensions by creating an [issue](https://github.com/estruyf/vscode-spfx-essentials/issues).
