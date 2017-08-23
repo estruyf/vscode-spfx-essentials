@@ -28,6 +28,8 @@ Currently the following extensions are included in the package:
 
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
 
+[SPFx Debug Configuration](https://marketplace.visualstudio.com/items?itemName=eliostruyf.spfx-debug) - This extension contains the SharePoint Framework debugging configurations to debug your code in Visual Studio code.
+
 ## Contribute
 
 Feel free to pass ideas and other useful extensions by creating an [issue](https://github.com/estruyf/vscode-spfx-essentials/issues).
