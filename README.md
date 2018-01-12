@@ -30,6 +30,8 @@ Currently the following extensions are included in the package:
 
 [SPFx Debug Configuration](https://marketplace.visualstudio.com/items?itemName=eliostruyf.spfx-debug) - This extension contains the SharePoint Framework debugging configurations to debug your code in Visual Studio code.
 
+[SPFx Snippets](https://marketplace.visualstudio.com/items?itemName=eliostruyf.spfx-snippets) - SharePoint Framework Snippets.
+
 ## Contribute
 
 Feel free to pass ideas and other useful extensions by creating an [issue](https://github.com/estruyf/vscode-spfx-essentials/issues).
