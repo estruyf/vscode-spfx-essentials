@@ -32,8 +32,10 @@ Currently the following extensions are included in the package:
 
 [SPFx Snippets](https://marketplace.visualstudio.com/items?itemName=eliostruyf.spfx-snippets) - SharePoint Framework Snippets.
 
-[SPFx Script Check](https://marketplace.visualstudio.com/items?itemName=eliostruyf.spfx-script-check) - This extension for Visual Studio Code makes it easier for you as a SharePoint Framework developer to correctly reference the external JavaScript libraries in your solutions.
+[SPFx Localization](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-spfx-localization) - SharePoint Framework extension to manage localization in projects.
+
+[Rencore SPFx Script Check](https://marketplace.visualstudio.com/items?itemName=RencoreGmbH.vscode-spfx-script-check) - Check the performance of external scripts and get snippet to include them in SharePoint Framework project. Created by Rencore.
 
 ## Contribute
 
-Feel free to pass ideas and other useful extensions by creating an [issue](https://github.com/estruyf/vscode-spfx-essentials/issues).
+Feel free to pass ideas and/or other useful extensions by creating an [issue](https://github.com/estruyf/vscode-spfx-essentials/issues).
