@@ -2,7 +2,7 @@
     "name": "spfx-essentials",
     "displayName": "SPFx Essentials",
     "description": "Essential extensions for SharePoint Framework projects / developers",
-    "version": "2.0.0",
+    "version": "3.0.0",
     "publisher": "eliostruyf",
     "icon": "assets/spfx-essentials.png",
     "engines": {
@@ -17,11 +17,12 @@
         "christian-kohler.npm-intellisense",
         "christian-kohler.path-intellisense",
         "msjsdiag.debugger-for-chrome",
-        "steoates.autoimport",
         "eliostruyf.spfx-debug",
         "eliostruyf.spfx-snippets",
         "eliostruyf.vscode-spfx-localization",
-        "RencoreGmbH.vscode-spfx-script-check"
+        "eliostruyf.vscode-spfx-task-runner",
+        "RencoreGmbH.vscode-spfx-script-check",
+        "RencoreGmbH.vscode-spfx-deploy-package"
     ],
     "license": "MIT",
     "repository": {

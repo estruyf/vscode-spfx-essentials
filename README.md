@@ -16,8 +16,6 @@ You can check the [change log](./changelog.md) to get an overview of all changes
 
 Currently the following extensions are included in the package:
 
-[Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) - Automatically finds, parses and provides code actions and code completion for all available imports.
-
 [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code running in Google Chrome from VS Code. You can find the configuration for this in the following article: [debug SharePoint Framework solutions in Visual Studio Code](https://dev.office.com/sharepoint/docs/spfx/debug-in-vscode)
 
 [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig for VS Code. This extension can maintain consistent settings between editors. By default, a new SPFx project will already contain a `.editorconfig` file.
@@ -34,7 +32,11 @@ Currently the following extensions are included in the package:
 
 [SPFx Localization](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-spfx-localization) - SharePoint Framework extension to manage localization in projects.
 
-[Rencore SPFx Script Check](https://marketplace.visualstudio.com/items?itemName=RencoreGmbH.vscode-spfx-script-check) - Check the performance of external scripts and get snippet to include them in SharePoint Framework project. Created by Rencore.
+[SPFx Task Runner](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-spfx-task-runner) - Easily run SPFx tasks to spin up the server, package the solution and more...
+
+[Rencore SPFx Script Check](https://marketplace.visualstudio.com/items?itemName=RencoreGmbH.vscode-spfx-script-check) - Check the performance of external scripts and get snippet to include them in SharePoint Framework project.
+
+[Rencore Deploy SPFx Package](https://marketplace.visualstudio.com/items?itemName=RencoreGmbH.vscode-spfx-deploy-package) - Easily deploy a SharePoint Framework solution package to SharePoint Online.
 
 ## Contribute
 
