@@ -38,6 +38,8 @@ Currently the following extensions are included in the package:
 
 [Rencore Deploy SPFx Package](https://marketplace.visualstudio.com/items?itemName=RencoreGmbH.vscode-spfx-deploy-package) - Easily deploy a SharePoint Framework solution package to SharePoint Online.
 
+[Rencore tenant-wide SPFx Extension deployment information](https://marketplace.visualstudio.com/items?itemName=RencoreGmbH.rencore-tenant-wide-spfx-extension-deployment) - Easily add tenant-wide deployment information for your SPFx extension.
+
 ## Contribute
 
 Feel free to pass ideas and/or other useful extensions by creating an [issue](https://github.com/estruyf/vscode-spfx-essentials/issues).

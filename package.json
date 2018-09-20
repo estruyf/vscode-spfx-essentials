@@ -2,7 +2,7 @@
     "name": "spfx-essentials",
     "displayName": "SPFx Essentials",
     "description": "Essential extensions for SharePoint Framework projects / developers",
-    "version": "3.0.0",
+    "version": "4.0.0",
     "publisher": "eliostruyf",
     "icon": "assets/spfx-essentials.png",
     "engines": {
@@ -22,7 +22,8 @@
         "eliostruyf.vscode-spfx-localization",
         "eliostruyf.vscode-spfx-task-runner",
         "RencoreGmbH.vscode-spfx-script-check",
-        "RencoreGmbH.vscode-spfx-deploy-package"
+        "RencoreGmbH.vscode-spfx-deploy-package",
+        "RencoreGmbH.rencore-tenant-wide-spfx-extension-deployment"
     ],
     "license": "MIT",
     "repository": {
