@@ -1,5 +1,9 @@
 # Change Log
 
+## 4.0.0
+
+- Added `RencoreGmbH.rencore-tenant-wide-spfx-extension-deployment`
+
 ## 3.0.0
 
 - Added `eliostruyf.vscode-spfx-task-runner`
