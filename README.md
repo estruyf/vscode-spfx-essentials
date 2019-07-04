@@ -34,6 +34,8 @@ Currently the following extensions are included in the package:
 
 [SPFx Task Runner](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-spfx-task-runner) - Easily run SPFx tasks to spin up the server, package the solution and more...
 
+[SPFx Remove Components](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-spfx-remove-components) - Easily remove components from SPFx solutions
+
 [Rencore SPFx Script Check](https://marketplace.visualstudio.com/items?itemName=RencoreGmbH.vscode-spfx-script-check) - Check the performance of external scripts and get snippet to include them in SharePoint Framework project.
 
 [Rencore Deploy SPFx Package](https://marketplace.visualstudio.com/items?itemName=RencoreGmbH.vscode-spfx-deploy-package) - Easily deploy a SharePoint Framework solution package to SharePoint Online.

@@ -1,5 +1,9 @@
 # Change Log
 
+## 5.0.0
+
+- Added `eliostruyf.vscode-spfx-remove-components`
+
 ## 4.0.0
 
 - Added `RencoreGmbH.rencore-tenant-wide-spfx-extension-deployment`
