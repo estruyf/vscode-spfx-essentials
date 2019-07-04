@@ -2,7 +2,7 @@
     "name": "spfx-essentials",
     "displayName": "SPFx Essentials",
     "description": "Essential extensions for SharePoint Framework projects / developers",
-    "version": "4.0.0",
+    "version": "5.0.0",
     "publisher": "eliostruyf",
     "icon": "assets/spfx-essentials.png",
     "engines": {
