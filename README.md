@@ -26,8 +26,6 @@ Currently the following extensions are included in the package:
 
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
 
-[SPFx Debug Configuration](https://marketplace.visualstudio.com/items?itemName=eliostruyf.spfx-debug) - This extension contains the SharePoint Framework debugging configurations to debug your code in Visual Studio code.
-
 [SPFx Snippets](https://marketplace.visualstudio.com/items?itemName=eliostruyf.spfx-snippets) - SharePoint Framework Snippets.
 
 [SPFx Localization](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-spfx-localization) - SharePoint Framework extension to manage localization in projects.
@@ -41,6 +39,8 @@ Currently the following extensions are included in the package:
 [Rencore Deploy SPFx Package](https://marketplace.visualstudio.com/items?itemName=RencoreGmbH.vscode-spfx-deploy-package) - Easily deploy a SharePoint Framework solution package to SharePoint Online.
 
 [Rencore tenant-wide SPFx Extension deployment information](https://marketplace.visualstudio.com/items?itemName=RencoreGmbH.rencore-tenant-wide-spfx-extension-deployment) - Easily add tenant-wide deployment information for your SPFx extension.
+
+[TypeScript Export All](https://marketplace.visualstudio.com/items?itemName=eliostruyf.vscode-typescript-exportallmodules) - Provides an easy way to export your TypeScript modules in folders.
 
 ## Contribute
 

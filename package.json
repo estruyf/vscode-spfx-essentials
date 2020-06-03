@@ -17,11 +17,11 @@
         "christian-kohler.npm-intellisense",
         "christian-kohler.path-intellisense",
         "msjsdiag.debugger-for-chrome",
-        "eliostruyf.spfx-debug",
         "eliostruyf.spfx-snippets",
         "eliostruyf.vscode-spfx-localization",
         "eliostruyf.vscode-spfx-task-runner",
         "eliostruyf.vscode-spfx-remove-components",
+        "eliostruyf.vscode-typescript-exportallmodules",
         "RencoreGmbH.vscode-spfx-script-check",
         "RencoreGmbH.vscode-spfx-deploy-package",
         "RencoreGmbH.rencore-tenant-wide-spfx-extension-deployment"
