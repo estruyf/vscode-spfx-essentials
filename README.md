@@ -16,8 +16,6 @@ You can check the [change log](./changelog.md) to get an overview of all changes
 
 Currently the following extensions are included in the package:
 
-[Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) - Debug your JavaScript code running in Google Chrome from VS Code. You can find the configuration for this in the following article: [debug SharePoint Framework solutions in Visual Studio Code](https://dev.office.com/sharepoint/docs/spfx/debug-in-vscode)
-
 [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig for VS Code. This extension can maintain consistent settings between editors. By default, a new SPFx project will already contain a `.editorconfig` file.
 
 [JSON to TS](https://marketplace.visualstudio.com/items?itemName=MariusAlchimavicius.json-to-ts) - Converts JSON objects to TypeScript interfaces. This will save you a lot of time creating new interfaces.

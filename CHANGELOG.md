@@ -1,5 +1,14 @@
 # Change Log
 
+## 7.0.0
+
+- Removed `msjsdiag.debugger-for-chrome` extension
+
+## 6.0.0
+
+- Added `eliostruyf.vscode-typescript-exportallmodules` extension
+- Removed `eliostruyf.spfx-debug` extension
+
 ## 5.0.0
 
 - Added `eliostruyf.vscode-spfx-remove-components`
